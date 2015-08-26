@@ -21,7 +21,9 @@ To test it just run `make howie-bash` and enter './runme.py -v'.
 
 * Change the configuration file.
 
-* `make run`
+```Shell
+make run
+```
 
 # Alternatives
 
