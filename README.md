@@ -13,7 +13,7 @@ You have two options to get the image:
 
 ## Testing
 
-To test it just run `make howie-bash` and enter './runme.py -v'.
+To test it just run `make howie-bash` and enter `./runme.py -v`.
 
 ## Usage
 
@@ -21,9 +21,7 @@ To test it just run `make howie-bash` and enter './runme.py -v'.
 
 * Change the configuration file.
 
-```Shell
-make run
-```
+* `make run`
 
 # Alternatives
 
